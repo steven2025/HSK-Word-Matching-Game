@@ -1,0 +1,40 @@
+你,nǐ,代（pron）,you (singular),คุณ,bạn,ເຈົ້າ,toi,あなた,당신,ты,du,tú
+好,hǎo,形（adj）,good/fine/nice,ดี,tốt,ດີ,bon,良い,좋은,хороший,gut,bueno
+你们,nǐmen,代（pron）,you (plural),พวกคุณ,các bạn,ພວກເຈົ້າ,vous,あなたたち,여러분,вы (мн.),ihr,vosotros
+老师,lǎoshī,名（n）,teacher,ครู,giáo viên,ຄູສອນ,professeur,先生,선생님,учитель,Lehrer,maestro
+早上,zǎoshang,名（n）,morning/early morning,เช้า,buổi sáng,ເຊົ້າ,matin,朝,아침,утро,Morgen,mañana
+是,shì,动（v）,be,เป็น,là,ແມ່ນ,être,である,이다,быть,sein,ser
+哪,nǎ,代（pron）,which/what,อะไร,gì,ຫຍັງ,quoi,何,무엇,что,was,qué
+国,guó,名（n）,country/state/nation,ประเทศ,quốc gia,ປະເທດ,pays,国,나라,страна,Land,país
+人,rén,名（n）,people/human being,คน,người,ຄົນ,personne,人,사람,человек,Mensch,persona
+我,wǒ,代（pron）,I/me,ฉัน,tôi,ຂ້ອຍ,moi,私,나,я,ich,yo
+呢,ne,助（part）,used at the end of an interrogative sentence,ไหม,không,ບໍ່,fin interrogative,か,인가,ли,Frageendung,¿no?
+他,tā,代（pron）,he/him,เขา,anh ấy,ລາວ,il,彼,그,он,er,él
+中国,Zhōngguó,专名（Prop.n）,China,จีน,Trung Quốc,ຈີນ,Chine,中国,중국,Китай,China,China
+中国人,Zhōngguó rén,专名（Prop.n）,Chinese (people),คนจีน,người Trung Quốc,ຄົນຈີນ,Chinois,中国人,중국인,китаец,Chinese,chino
+德国,Déguó,专名（Prop.n）,Germany,เยอรมนี,Đức,ເຢຍລະມັນ,Allemagne,ドイツ,독일,Германия,Deutschland,Alemania
+德国人,Déguó rén,专名（Prop.n）,German (people),คนเยอรมัน,người Đức,ຄົນເຢຍລະມັນ,Allemand,ドイツ人,독일인,немец,Deutscher,alemán
+英国,Yīngguó,专名（Prop.n）,Britain,อังกฤษ,Anh,ອັງກິດ,Angleterre,イギリス,영국,Британия,Großbritannien,Gran Bretaña
+英国人,Yīngguó rén,专名（Prop.n）,British (people),คนอังกฤษ,người Anh,ຄົນອັງກິດ,Anglais,イギリス人,영국인,англичанин,Brite,británico
+印度,Yìndù,专名（Prop.n）,India,อินเดีย,Ấn Độ,ອິນເດຍ,Inde,インド,인도,Индия,Indien,India
+印度人,Yìndù rén,专名（Prop.n）,Indian (people),คนอินเดีย,người Ấn Độ,ຄົນອິນເດຍ,Indien,インド人,인도인,индиец,Inder,indio
+请,qǐng,动（v）,please,กรุณา,xin vui lòng,ກະລຸນາ,s'il vous plaît,お願いします,부탁합니다,пожалуйста,bitte,por favor
+问,wèn,动（v）,ask,ถาม,hỏi,ຖາມ,demander,尋ねる,묻다,спросить,fragen,preguntar
+叫,jiào,动（v）,call/name,เรียก,gọi,ເອີ້ນ,appeler,呼ぶ,부르다,называть,nennen,llamar
+什么,shénme,代（pron）,what,อะไร,gì,ຫຍັງ,quoi,何,무엇,что,was,qué
+名字,míngzi,名（n）,name/given or personal name,ชื่อ,tên,ຊື່,nom,名前,이름,имя,Name,nombre
+姓,xìng,动（v）,be surnamed,แซ่,họ,ນາມສະກຸນ,s'appeler,姓,성씨이다,фамилия,heißen,apellidarse
+认识,rènshi,动（v）,know/recognize,รู้จัก,biết,ຮູ້ຈັກ,connaître,知る,알다,знать,kennen,conocer
+很,hěn,副（adv）,very/very much,มาก,rất,ຫຼາຍ,très,とても,매우,очень,sehr,muy
+高兴,gāoxìng,形（adj）,glad/happy,ดีใจ,vui mừng,ດີໃຈ,content/heureux,嬉しい,기쁘다,рад,froh,feliz
+也,yě,副（adv）,also/too/as well,ก็,cũng,ກໍ,aussi,も,또한,тоже,auch,también
+李,Lǐ,专名（proper name）,Li-a Chinese surname,หลี่,Lý,ລີ,Li,リー,이,Ли,Li,Li
+王,Wáng,专名（proper name）,Wang-a Chinese surname,หวัง,Vương,ວັງ,Wang,ワン,왕,Ван,Wang,Wang
+张,Zhāng,专名（proper name）,Zhang-a Chinese surname,จาง,Trương,ຈ້າງ,Zhang,チャン,장,Чжан,Zhang,Zhang
+刘,Liú,专名（proper name）,Liu-a Chinese surname,หลิว,Lưu,ລິວ,Liu,リウ,류,Лю,Liu,Liu
+赵,Zhào,专名（proper name）,Zhao-a Chinese surname,เจ้า,Triệu,ຈາວ,Zhao,ジャオ,자오,Чжао,Zhao,Zhao
+马,Mǎ,专名（proper name）,Ma-a Chinese surname,หม่า,Mã,ມາ,Ma,マー,마,Ма,Ma,Ma
+陈,Chén,专名（proper name）,Chen-a Chinese surname,เฉิน,Trần,ເຉີນ,Chen,チェン,천,Чэнь,Chen,Chen
+孙,Sūn,专名（proper name）,Sun-a Chinese surname,ซุน,Tôn,ຊູນ,Sun,スン,손,Сунь,Sun,Sun
+黄,Huáng,专名（proper name）,Huang-a Chinese surname,หวง,Hoàng,ຮວງ,Huang,ホアン,황,Хуан,Huang,Huang
+高,Gāo,专名（proper name）,Gao-a Chinese surname,เกา,Cao,ກາວ,Gao,ガオ,가오,Гао,Gao,Gao
